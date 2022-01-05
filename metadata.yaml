@@ -15,5 +15,5 @@
 homepage: "https://github.com/leoschuler/gtag-mautic-event"
 documentation: "https://github.com/leoschuler/gtag-mautic-event"
 versions:
-  - sha: d6772654bc506ebb0971a61b2d9af023aefea8b4
+  - sha: 6277b92de4a4ed00548fe3dc81629b521c595b91
     changeNotes: Initial Version

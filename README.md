@@ -1,4 +1,3 @@
-# gtag-consent-management
-This repository is a Tag Template for Google tag manager whose purpose is to include the Cookie Banner from Suagencia Consent Management Solution. it is fully integrated with the Google Consent API and all the configuration needed is available thru tag manager
-
-Esse repositório é uma Tag Template do Google Tag Manager. com o propósito de prover a gestão de cookies e consentimento , solução fornecida pela Suagencia. Totalmente integrado com a API de consentimento do Google.
+# gtag-mautic-event
+Add page view or custom events in Mautic. Recommended to be used to trigger additional events, after initialization of mautic tracking (see Mautic with consent tag)
+(https://github.com/leoschuler/gtag-mautic-initialization)

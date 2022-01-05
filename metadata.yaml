@@ -12,8 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-homepage: "https://github.com/leoschuler/gtag-consent-management"
-documentation: "https://github.com/leoschuler/gtag-consent-management"
+homepage: "https://github.com/leoschuler/gtag-mautic-event"
+documentation: "https://github.com/leoschuler/gtag-mautic-event"
 versions:
   - sha: d6772654bc506ebb0971a61b2d9af023aefea8b4
     changeNotes: Initial Version

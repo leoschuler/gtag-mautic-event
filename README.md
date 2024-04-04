@@ -7,11 +7,7 @@
 (https://github.com/leoschuler/gtag-mautic-initialization)
 
 # Installing the Tag Template
-1. Download the [template.tpl](https://raw.githubusercontent.com/leoschuler/gtag-mautic-event/master/template.tpl) file
-2. Go to your Tag Manager Account, under Template Section, click New
-![New Template](https://github.com/leoschuler/gtag-mautic-event/blob/master/docs/New-Template.png)
-4. click in the 3 dots icon to expand the menu and select Import. Select the file you have downloaded and once the data is loaded into your screen, click the save button
-![Importing the Tag](https://github.com/leoschuler/gtag-mautic-event/blob/master/docs/Import-Tag.png)
+To use this template in your workspace, open Tag Manager, find this template in Templates > Search Gallery and add it to your workspace.
 
 # Configuring the Tag
 Once the tag is installed you will be able to configure, specifing the mautic domain, custom url and page title to record, tags and fields to be updated.
